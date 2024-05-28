@@ -1,4 +1,4 @@
-package com.waltonbd.randomapi.presentation.view.ui.theme
+package com.waltonbd.randomapi.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

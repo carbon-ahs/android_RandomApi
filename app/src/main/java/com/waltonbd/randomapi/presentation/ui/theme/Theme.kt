@@ -1,4 +1,4 @@
-package com.waltonbd.randomapi.presentation.view.ui.theme
+package com.waltonbd.randomapi.presentation.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
